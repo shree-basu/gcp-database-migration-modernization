@@ -1,0 +1,1 @@
+"feat(assess): schema-compatibility checker for managed targets"

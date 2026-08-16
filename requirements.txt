@@ -1,0 +1,7 @@
+psycopg2-binary==2.9.9      # PostgreSQL driver
+sqlalchemy==2.0.34          # engine/inspection abstraction
+pandas==2.2.2               # dataframes for reconciliation
+tabulate==0.9.0             # pretty tables in reports
+python-dotenv==1.0.1        # load .env
+jinja2==3.1.4               # HTML report templating
+rich==13.8.0                # nice CLI output

@@ -1,0 +1,22 @@
+# secrets & env
+.env
+*.env
+!.env.example
+service-account*.json
+*.key
+*.pem
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# outputs
+reports/*.html
+reports/*.json
+!reports/.gitkeep
+
+# os
+.DS_Store
